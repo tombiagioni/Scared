@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SCARED.Data", "SCARED.Data\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SCARED.Model", "SCARED.Model\SCARED.Model.csproj", "{C92334D0-DA7B-42C0-8922-BC59F29DB721}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SCARED.Data.Contracts", "SCARED.Data.Contracts\SCARED.Data.Contracts.csproj", "{0A363C37-30B5-40DC-94C9-307AFA75FA5A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C92334D0-DA7B-42C0-8922-BC59F29DB721}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C92334D0-DA7B-42C0-8922-BC59F29DB721}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C92334D0-DA7B-42C0-8922-BC59F29DB721}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A363C37-30B5-40DC-94C9-307AFA75FA5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A363C37-30B5-40DC-94C9-307AFA75FA5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A363C37-30B5-40DC-94C9-307AFA75FA5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A363C37-30B5-40DC-94C9-307AFA75FA5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

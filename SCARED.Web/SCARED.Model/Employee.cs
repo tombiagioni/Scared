@@ -32,7 +32,8 @@ namespace SCARED.Model
         public bool IsClockedIn { get; set; }
         public string Role { get; set; }
 
-        public ICollection<Transactions> TransactionsList { get; set; }
+        public virtual ICollection<Transactions> TransactionsList { get; set; }
+        public virtual ICollection<EmployeesStores> Stores { get; set; }
 
 
 

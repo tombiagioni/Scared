@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SCARED.Model
 {
-    class Employees_Stores
+   public class EmployeesStores
     {
 
         public int EmployeeId { get; set; }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SCARED.Model
 {
-    class Transactions : TransactionsBrief
+    public class Transactions : TransactionsBrief
     {
 
         public Transactions()
