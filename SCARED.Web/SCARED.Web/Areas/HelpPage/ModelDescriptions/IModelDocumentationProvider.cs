@@ -1,7 +1,7 @@
 using System;
 using System.Reflection;
 
-namespace SCARED.Web.Areas.HelpPage.ModelDescriptions
+namespace Scared.Web.Areas.HelpPage.ModelDescriptions
 {
     public interface IModelDocumentationProvider
     {

@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Data.Entity;
-using SCARED.Data.Contracts;
+using Scared.Data.Contracts;
 
-namespace SCARED.Data
+namespace Scared.Data
 {
     /// <summary>
     /// Interface for a class that can provide repositories by type.

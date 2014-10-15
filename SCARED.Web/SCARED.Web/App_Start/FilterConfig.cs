@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace SCARED.Web
+namespace Scared.Web
 {
     public class FilterConfig
     {

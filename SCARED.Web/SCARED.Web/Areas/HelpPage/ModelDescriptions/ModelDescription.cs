@@ -1,6 +1,6 @@
 using System;
 
-namespace SCARED.Web.Areas.HelpPage.ModelDescriptions
+namespace Scared.Web.Areas.HelpPage.ModelDescriptions
 {
     /// <summary>
     /// Describes a type model.

@@ -5,21 +5,21 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Data.Entity.ModelConfiguration.Conventions;
 using System.Data.Entity;
-using SCARED.Model;
+using Scared.Model;
 
 
-namespace SCARED.Data
+namespace Scared.Data
 {
-    public class SCAREDDbContext : DbContext
+    public class ScaredDbContext : DbContext
     {
 
-        static SCAREDDbContext()
+        static ScaredDbContext()
         {
            // Database.SetInitializer(new SCAREDDatabaseInitializer());
 
         }
 
-        public SCAREDDbContext() : base(nameOrConnectionString: "SCAREDConnectionString") { }
+        public ScaredDbContext() : base(nameOrConnectionString: "SCAREDConnectionString") { }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {

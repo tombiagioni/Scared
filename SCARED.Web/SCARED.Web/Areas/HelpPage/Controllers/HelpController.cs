@@ -1,10 +1,10 @@
 using System;
 using System.Web.Http;
 using System.Web.Mvc;
-using SCARED.Web.Areas.HelpPage.ModelDescriptions;
-using SCARED.Web.Areas.HelpPage.Models;
+using Scared.Web.Areas.HelpPage.ModelDescriptions;
+using Scared.Web.Areas.HelpPage.Models;
 
-namespace SCARED.Web.Areas.HelpPage.Controllers
+namespace Scared.Web.Areas.HelpPage.Controllers
 {
     /// <summary>
     /// The controller that will handle requests for the help page.

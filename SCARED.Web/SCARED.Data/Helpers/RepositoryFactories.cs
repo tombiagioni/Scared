@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Data.Entity;
-using SCARED.Data.Contracts;
+using Scared.Data.Contracts;
 
-namespace SCARED.Data
+namespace Scared.Data
 {
     /// <summary>
     /// A maker of SCARED Repositories.

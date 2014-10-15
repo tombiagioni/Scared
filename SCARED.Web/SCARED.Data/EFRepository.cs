@@ -3,9 +3,9 @@ using System.Data;
 using System.Data.Entity;
 using System.Data.Entity.Infrastructure;
 using System.Linq;
-using SCARED.Data.Contracts;
+using Scared.Data.Contracts;
 
-namespace SCARED.Data
+namespace Scared.Data
 {
     /// <summary>
     /// The EF-dependent, generic repository for data access

@@ -1,4 +1,4 @@
-namespace SCARED.Web.Areas.HelpPage
+namespace Scared.Web.Areas.HelpPage
 {
     /// <summary>
     /// Indicates whether the sample is used for request or response

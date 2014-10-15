@@ -1,4 +1,4 @@
-﻿using SCARED.Model;
+﻿using Scared.Model;
 using System;
 using System.Collections.Generic;
 using System.Data.Entity.ModelConfiguration;
@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SCARED.Data
+namespace Scared.Data
 {
     public class EmployeesStoresConfiguration : EntityTypeConfiguration<EmployeesStores>
     {

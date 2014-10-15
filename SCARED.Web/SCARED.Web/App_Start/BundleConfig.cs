@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace SCARED.Web
+namespace Scared.Web
 {
     public class BundleConfig
     {

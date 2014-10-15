@@ -1,7 +1,7 @@
 using System;
 using System.Linq.Expressions;
 
-namespace SCARED.Data
+namespace Scared.Data
 {
     public static class PredicateBuilder
     {

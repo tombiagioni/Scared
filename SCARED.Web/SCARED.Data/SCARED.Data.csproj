@@ -54,7 +54,7 @@
     <Compile Include="Helpers\RepositoryFactories.cs" />
     <Compile Include="Helpers\RepositoryProvider.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SCAREDDbContext.cs" />
+    <Compile Include="ScaredDbContext.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\SCARED.Data.Contracts\SCARED.Data.Contracts.csproj">

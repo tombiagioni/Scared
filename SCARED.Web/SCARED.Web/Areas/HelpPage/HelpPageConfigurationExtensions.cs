@@ -11,10 +11,10 @@ using System.Net.Http.Headers;
 using System.Web.Http;
 using System.Web.Http.Controllers;
 using System.Web.Http.Description;
-using SCARED.Web.Areas.HelpPage.ModelDescriptions;
-using SCARED.Web.Areas.HelpPage.Models;
+using Scared.Web.Areas.HelpPage.ModelDescriptions;
+using Scared.Web.Areas.HelpPage.Models;
 
-namespace SCARED.Web.Areas.HelpPage
+namespace Scared.Web.Areas.HelpPage
 {
     public static class HelpPageConfigurationExtensions
     {

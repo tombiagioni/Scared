@@ -1,7 +1,7 @@
 using System.Web.Http;
 using System.Web.Mvc;
 
-namespace SCARED.Web.Areas.HelpPage
+namespace Scared.Web.Areas.HelpPage
 {
     public class HelpPageAreaRegistration : AreaRegistration
     {

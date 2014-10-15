@@ -1,9 +1,9 @@
-﻿using SCARED.Model;
+﻿using Scared.Model;
 using System.Data.Entity.ModelConfiguration;
 using System.Data.Entity;
 
 
-namespace SCARED.Data
+namespace Scared.Data
 {
     public class StoresDistrictsConfiguration : EntityTypeConfiguration<StoresDistricts>
     {

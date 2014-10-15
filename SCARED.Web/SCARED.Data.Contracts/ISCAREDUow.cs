@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SCARED.Data.Contracts
+namespace Scared.Data.Contracts
 {
     public interface ISCAREDUow
 

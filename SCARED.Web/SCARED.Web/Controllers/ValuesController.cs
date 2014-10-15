@@ -5,7 +5,7 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 
-namespace SCARED.Web.Controllers
+namespace Scared.Web.Controllers
 {
     public class ValuesController : ApiController
     {
